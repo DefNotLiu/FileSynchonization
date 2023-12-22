@@ -1,0 +1,45 @@
+2023-12-22 17:22:56 Info - Scanning Original directory.
+2023-12-22 17:22:56 Info - D:\FileSynchronization\original\a.txt found.
+2023-12-22 17:22:56 Info - D:\FileSynchronization\original\b.txt found.
+2023-12-22 17:22:56 Info - D:\FileSynchronization\original\install_flash_player_offline_ppapi_cn_32.0.0.192_360_8c1a8878c5497979fab584e97716c4ca386d8a60.exe.trt found.
+2023-12-22 17:22:56 Info - D:\FileSynchronization\original\Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf found.
+2023-12-22 17:22:56 Info - D:\FileSynchronization\original\c found.
+2023-12-22 17:22:56 Info - D:\FileSynchronization\original\c\c.txt found.
+2023-12-22 17:22:56 Info - D:\FileSynchronization\original\c\d found.
+2023-12-22 17:22:56 Info - D:\FileSynchronization\original\c\e found.
+2023-12-22 17:22:56 Info - D:\FileSynchronization\original\c\d\d.txt found.
+2023-12-22 17:22:56 Info - D:\FileSynchronization\original\c\e\e.txt found.
+2023-12-22 17:22:56 Info - Scanning Duplicate directory.
+2023-12-22 17:22:56 Info - D:\SIIIu\c\d\d.txt found in Original directory.
+2023-12-22 17:22:56 Info - D:\SIIIu\c\e\e.txt found in Original directory.
+2023-12-22 17:22:56 Info - D:\SIIIu\c\c.txt found in Original directory.
+2023-12-22 17:22:56 Info - D:\SIIIu\c\d found in Original directory.
+2023-12-22 17:22:56 Info - D:\SIIIu\c\e found in Original directory.
+2023-12-22 17:22:56 Info - D:\SIIIu\a.txt found in Original directory.
+2023-12-22 17:22:56 Info - D:\SIIIu\b.txt found in Original directory.
+2023-12-22 17:22:56 Info - D:\SIIIu\install_flash_player_offline_ppapi_cn_32.0.0.192_360_8c1a8878c5497979fab584e97716c4ca386d8a60.exe.trt found in Original directory.
+2023-12-22 17:22:56 Info - D:\SIIIu\c found in Original directory.
+2023-12-22 17:22:56 Copying D:\FileSynchronization\original\Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf
+2023-12-22 17:22:59 Info - Scanning Original directory.
+2023-12-22 17:22:59 Info - D:\FileSynchronization\original\a.txt found.
+2023-12-22 17:22:59 Info - D:\FileSynchronization\original\b.txt found.
+2023-12-22 17:22:59 Info - D:\FileSynchronization\original\install_flash_player_offline_ppapi_cn_32.0.0.192_360_8c1a8878c5497979fab584e97716c4ca386d8a60.exe.trt found.
+2023-12-22 17:22:59 Info - D:\FileSynchronization\original\Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf found.
+2023-12-22 17:22:59 Info - D:\FileSynchronization\original\c found.
+2023-12-22 17:22:59 Info - D:\FileSynchronization\original\c\c.txt found.
+2023-12-22 17:22:59 Info - D:\FileSynchronization\original\c\d found.
+2023-12-22 17:22:59 Info - D:\FileSynchronization\original\c\e found.
+2023-12-22 17:22:59 Info - D:\FileSynchronization\original\c\d\d.txt found.
+2023-12-22 17:22:59 Info - D:\FileSynchronization\original\c\e\e.txt found.
+2023-12-22 17:22:59 Info - Scanning Duplicate directory.
+2023-12-22 17:22:59 Info - D:\SIIIu\c\d\d.txt found in Original directory.
+2023-12-22 17:22:59 Info - D:\SIIIu\c\e\e.txt found in Original directory.
+2023-12-22 17:22:59 Info - D:\SIIIu\c\c.txt found in Original directory.
+2023-12-22 17:22:59 Info - D:\SIIIu\c\d found in Original directory.
+2023-12-22 17:22:59 Info - D:\SIIIu\c\e found in Original directory.
+2023-12-22 17:22:59 Info - D:\SIIIu\a.txt found in Original directory.
+2023-12-22 17:22:59 Info - D:\SIIIu\b.txt found in Original directory.
+2023-12-22 17:22:59 Info - D:\SIIIu\install_flash_player_offline_ppapi_cn_32.0.0.192_360_8c1a8878c5497979fab584e97716c4ca386d8a60.exe.trt found in Original directory.
+2023-12-22 17:22:59 Info - D:\SIIIu\Internal_Development_in_QA_(SDET)_Team_tesk_task.pdf found in Original directory.
+2023-12-22 17:22:59 Info - D:\SIIIu\c found in Original directory.
+2023-12-22 17:23:01 Closing log
